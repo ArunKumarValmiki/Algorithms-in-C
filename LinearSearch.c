@@ -1,6 +1,6 @@
 // Time Complexity
 // Best case     - O(1)
-// Avergae case  - O(n)
+// Average case  - O(n)
 // Worst case    - O(n)
 
 // Space : O(1)
