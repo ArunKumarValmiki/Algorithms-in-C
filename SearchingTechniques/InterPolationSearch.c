@@ -1,3 +1,11 @@
+// Time Complexity
+// Best Case - O(1)
+// Average Case - O(log(log n))
+// Worst Case - O(n)
+
+// Space Complexity - O(1)
+
+
 #include <stdio.h>
 
 int interpolationSearch(int arr[], int n, int x) {
