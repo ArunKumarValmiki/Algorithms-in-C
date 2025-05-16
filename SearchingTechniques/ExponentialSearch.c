@@ -1,3 +1,10 @@
+// Time Complexity
+// Best Case - O(1)
+// Average Case - O(log i)  
+// Worst Case - O(log i)   , where i is the index of the target
+
+// Space Complexity - O(1)
+
 #include <stdio.h>
 
 int binarySearch(int arr[], int l, int r, int x) {
