@@ -1,3 +1,6 @@
+// Time  - O(n)
+// Space - O(log n)
+
 #include <stdio.h>
 
 void findMinMax(int arr[], int low, int high, int *min, int *max) {
