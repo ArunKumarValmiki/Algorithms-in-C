@@ -5,7 +5,7 @@
 
 // Spcae Complexity - O(m * n) 
 // m - Length of string 1 
-// n - Length of strign 2 
+// n - Length of string 2 
 
 #include <stdio.h>
 #include <string.h>
