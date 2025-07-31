@@ -1,3 +1,5 @@
+// This assumes the graph is DAG (Directed Acyclic Graph)
+
 #include <stdio.h>
 #include <stdlib.h>
 
